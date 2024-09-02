@@ -1,1 +1,1 @@
-## Beamer template for IFPP HUST
+Beamer template for IFPP HUST
